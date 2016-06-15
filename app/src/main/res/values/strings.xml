@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Stock Hawk</string>
+    <string name="action_example" >Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill" translatable="false"></string>
+    <string name="widget_title">Today\'s Market</string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="possible_bad_symbol_toast">An error occurred. Ensure the symbol is valid</string>
+    <string name="possible_bad_connection_toast">A connection problem occurred. Ensure there is a reliable connection</string>
+    <string name="historical_data_not_yet_loaded">Not yet loaded</string>
+    <string name="no_history_data_available">No historical bid prices available. </string>
+    <string name="no_quote_available">No Quote available. </string>
+    <string name="no_quote_saved">No Data saved in database</string>
+    <string name="no_network_connection">No network connection to fetch information</string>
+    <string name="server_down">Server is down</string>
+    <string name="server_invalid">Server is invalid</string>
+    <string name="attempting_Connection">Attempting connection to server</string>
+    <string name="bad_user_input">Possibly bad symbol input</string>
+
+    <string name="quote_transaction_status_key" translatable="false">quote_transaction_status_key</string>
+    <string name="historical_time_tag_key" translatable="false">historical_time_tag_key</string>
+    <string name="historical_start_date_key" translatable="false">historical_start_date_key</string>
+    <string name="historical_end_date_key" translatable="false">historical_end_date_key</string>
+    <string name="title_activity_line_graph" translatable="false">LineGraphActivity</string>
+
+    <string name="linechart_title_prepend"> Closing bid prices for symbol: </string>
+    <string name="background_resource_setter" translatable="false">setBackgroundResource</string>
+
+
+    <string name="new_stock_content_description" translatable="false">Add a new stock</string>
+
+</resources>
